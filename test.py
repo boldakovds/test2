@@ -5,3 +5,7 @@ print ("dtjhyt")
 print ("dtjhyt")
 print ("dtjhyt")
 print ("dtjhyt")
+
+print ("rhe")
+print ("dtjregaghyt")
+print ("reg")
